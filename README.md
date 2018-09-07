@@ -7,8 +7,11 @@
    必须继承rxA的那个什么Activity和Fragment ；
    
 3、glide https://github.com/bumptech/glide   图片加载
+
 4、rxjava  
          https://github.com/ReactiveX/RxJava 
          https://github.com/ReactiveX/RxAndroid 
          教程： https://www.jianshu.com/p/cd3557b1a474
+         
+         
 5、https://github.com/apache/commons-lang  工具类  
